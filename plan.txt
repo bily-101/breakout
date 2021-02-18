@@ -1,0 +1,21 @@
+- Game class(B)
+    fun main() {
+      val game = Game()
+      game.run()
+    }
+
+- Platform Class(T)
+    - create the object
+    - draw
+    - movement control
+//    - fire control
+
+- Ball Class (T)
+  - Extract in Ball class
+  - Start flying
+
+- Bouncing fun inside the game (Billy)
+
+- Block class (B)
+    drawing
+    matrix
